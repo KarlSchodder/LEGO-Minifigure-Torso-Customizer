@@ -1,6 +1,6 @@
 Visit https://lego-shirt.vercel.app/ for the vercel hosted and deployed version.
 
-Features
+## Features
 Complete Online Shop
 Admin Dashboard
 File Uploads
